@@ -5,7 +5,7 @@
   
 A web application was developed for the farmers to get the crop information. This website is responsive in nature, so that farmers can easily use the website with the help of mobile or laptop. By these farmers can cultivate more crop and increase production ratio. The main awareness of this work is focused on Indian farmers of the Karnataka state. This will effectively help the farmers to get more information about the crops, and thereby cultivate the crops that is suitable for that region and season. 
 
-This project was presented at the International Conference on Computing System and its Applications (ICCSA-2021) by me as part of a team of four. My primary contribution was working on the backend, where I focused on building the model using Python. The research paper was published in ScienceDirect and can be accessed [here](https://www.sciencedirect.com/science/article/pii/S2666285X21000881).</p>
+This project was presented at the <i>International Conference on Computing System and its Applications (ICCSA-2021)</i> by me as part of a team of four. My primary contribution was working on the backend, where I focused on building the model using Python. The research paper was published in <i>ScienceDirect</i> and can be accessed [here](https://www.sciencedirect.com/science/article/pii/S2666285X21000881).</p>
 
 ### SKILLS USED:
 - Python, HTML, PHP, SQL
